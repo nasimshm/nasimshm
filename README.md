@@ -10,9 +10,10 @@
 </p>-->
 
 <p align="left">
-Here is a link to my Linkedin profile. 
+
   <a href="https://linkedin.com/in/nshirvanimahdavi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nshirvanimahdavi" height="40" width="40" /></a>
  <!-- <a href="https://scholar.google.com/citations?hl=en&user=_fHIY6IAAAAJ" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="nasimshm" height="40" width="40" /></a>-->
+  Here is a link to my Linkedin profile. I would be happy to connect with you! 
 </p>
 
 

@@ -2,7 +2,7 @@
 
 <p>I'm a Ph.D. student at the University of Texas - Arlington. </p>
 
-<p>My research projects involve Knowledge Graphs, Data Mining, and Deep Learning. More specifically, I am working on building a system that can efficiently discover exceptional facts from knowledge graphs. Furthermore, I am studying the effectiveness of link prediction algorithms for large real knowledge graphs and working on creating datasets that facilitate research on this task and more.</p>
+<p>My research projects involve Knowledge Graphs, Machine Mining, and Deep Learning. More specifically, I am studying the effectiveness of link prediction algorithms for large real knowledge graphs and working on creating datasets that facilitate research on this task and more. Furthermore, I am working on building a system that can efficiently discover exceptional facts from knowledge graphs. </p>
 
 <!--<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nasimshm&count_private=true&show_icons=true&theme=radical" alt="nasimshm"/>

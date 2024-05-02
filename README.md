@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Nasim</h1>
 
-<p>I'm a CS Ph.D. student at the University of Texas - Arlington. </p>
+<p>I'm a CS Ph.D. candidate at the University of Texas - Arlington. </p>
 
-<p>My research projects involve Knowledge Graphs, Machine Mining, and Deep Learning. More specifically, I am studying the effectiveness of link prediction algorithms for large real knowledge graphs and creating datasets that facilitate research on this task and more. Furthermore, I am building a system that can efficiently discover exceptional facts from knowledge graphs. </p>
+<p>My research focus is on Knowledge Graph Completion Methods. Specifically, I'm investigating the effectiveness of knowledge graph embedding-based models for the link prediction task, particularly on large-scale real-world knowledge graphs. Additionally, I have been developing benchmarks to support further research in this field.</p>
 
 <!--<p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nasimshm&count_private=true&show_icons=true&theme=radical" alt="nasimshm"/>
